@@ -1,6 +1,6 @@
 ### Hi there, I'm [Richard]([https://richardzhaoo.github.io/PersonalWebsite/]) 👋
 
-I am a junior Computer Science student from the [University of Waterloo](https://uwaterloo.ca/), Canada. I am a seasoned full-stack developer and experienced with cloud & containerization technologies.
+I am a junior Computer Science student from the [University of Waterloo](https://uwaterloo.ca/), Canada. I am a seasoned full-stack developer and experienced with cloud & AI/ML technologies.
 
  **I am open to**:
 
@@ -35,15 +35,12 @@ I am a junior Computer Science student from the [University of Waterloo](https:/
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)&nbsp;
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
 
 #### Libraries
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)&nbsp;
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
-![openpyxl](https://img.shields.io/badge/openpyxl-025E8C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 
 #### Databases/Clouds
@@ -61,12 +58,7 @@ I am a junior Computer Science student from the [University of Waterloo](https:/
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
-![Splunk](https://img.shields.io/badge/Splunk-090F16?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)&nbsp;
-![OpenShift](https://img.shields.io/badge/OpenShift-D51F27?style=for-the-badge&logo=openshift&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Studio 3T](https://img.shields.io/badge/Studio3T-FF4A00?style=for-the-badge&logo=studio3t&logoColor=white)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 
 ## Connect with me:
 
