@@ -1,11 +1,11 @@
-### Hi there, I'm [Raymond Li](https://abord77.github.io/personal-site-v2/) 👋
+### Hi there, I'm [Richard]([https://richardzhaoo.github.io/PersonalWebsite/]) 👋
 
-I am a Computer Science and Combinatorics & Optimization major from the [University of Waterloo](https://uwaterloo.ca/), Canada. I'm interested in doing research and currently doing research in Algorithm Design and Computer Vision. Apart from that, I am a seasoned full-stack developer and experienced with cloud & containerization technologies.
+I am a junior Computer Science student from the [University of Waterloo](https://uwaterloo.ca/), Canada. I am a seasoned full-stack developer and experienced with cloud & containerization technologies.
 
  **I am open to**:
 
 - any collaboration work,
-- machine learning projects(development or research),
+- product manager opportunities,
 - full-stack development opportunities
 
 ## Skills:
